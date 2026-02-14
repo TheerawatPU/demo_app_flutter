@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vaccinekid_v1
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# demo_app_flutter
+>>>>>>> c39fb8220df32b9caf17b651d8671e69f21b9cc1
